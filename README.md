@@ -2,7 +2,8 @@
 
 Python Assistant (P.A.) is a voice-controlled virtual assistant that can perform a variety of tasks based on user voice commands. This project leverages Python and several libraries to provide a seamless voice-driven interaction experience.
 
-![Image]("https://github.com/Levi-Chinecherem/python-assistant/blob/main/sample_image.jpg")
+![Image](https://github.com/Levi-Chinecherem/python-assistant/blob/main/sample_image.jpg)
+
 
 ## Table of Contents
 
