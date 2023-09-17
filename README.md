@@ -1,7 +1,8 @@
-
 # Python Assistant (P.A.)
 
 Python Assistant (P.A.) is a voice-controlled virtual assistant that can perform a variety of tasks based on user voice commands. This project leverages Python and several libraries to provide a seamless voice-driven interaction experience.
+
+![Image]("https://github.com/Levi-Chinecherem/python-assistant/blob/main/sample_image.jpg")
 
 ## Table of Contents
 
@@ -73,7 +74,7 @@ Before running Python Assistant, make sure you have the following prerequisites 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/python-assistant.git
+   git clone https://github.com/Levi-Chinecherem/python-assistant.git
    ```
 2. Install the required Python packages using `pip`:
 
@@ -122,8 +123,6 @@ Python Assistant integrates with the following APIs:
 - Wolfram Alpha for answering questions and calculations.
 - Quote API for retrieving quotes.
 - COVID-19 API for pandemic statistics.
-
-
 
 Certainly! Here are some example voice commands you can use to test your Python Assistant (P.A.) system:
 
@@ -197,5 +196,3 @@ Contributions to Python Assistant are welcome! Feel free to open issues, suggest
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to add more sections or customize the `README.md` as needed to provide comprehensive information about your Python Assistant project. Make sure to keep it well-structured and up-to-date as your project evolves.
